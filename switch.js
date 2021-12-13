@@ -17,3 +17,12 @@ switch(human) {
         console.log("LALALALALALALALA")
         break;    
 }
+
+
+switch(weather){
+    case 'rainy':
+        console.log(`It's fucking wet`)
+        break;
+    case 'snowy':
+        console.log(``)    
+}
